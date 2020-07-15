@@ -1,4 +1,4 @@
-![Photo of a trail of stars, which has been colourized to resemble a rainbow](./background.jpg)
+![Photo of a trail of stars, which has been colourized to resemble a rainbow](https://github.com/ashfurrow/ashfurrow/blob/master/background.jpg)
 
 Hello! My name is Ash Furrow. I'm a compassionate software developer from rural Canada, but now I live in New York. I sing and play guitar. I run. I even like to cook.
 
