@@ -10,5 +10,6 @@ The first ten years of my career as a software developer are publicly documented
 - I led [Artsy's](https://www.artsy.net) Mobile Experience team building the [totally open source iOS app](https://github.com/artsy/eigen).
 - I moved home to New Brunswick, Canada during the pandemic.
 - I joined [Shopify](https://shopify.engineering/) and led the [Shop Minis SDK](https://shop.app/minis).
+- I joined [Float](https://floatcard.com) in 2023 and lead their Mobile team.
 
-Currently, I'm reflected on what I'd like out of my career next. The best is yet to come!
+The best is yet to come!
