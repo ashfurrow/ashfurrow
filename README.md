@@ -8,8 +8,9 @@ The first ten years of my career as a software developer are publicly documented
 - I got a scholarship to WWDC in 2010.
 - I moved around the world a bit, from Toronto to Amsterdam to New York. [I spoke at a lot of conferences](https://ashfurrow.com/speaking/).
 - I led [Artsy's](https://www.artsy.net) Mobile Experience team building the [totally open source iOS app](https://github.com/artsy/eigen).
-- I moved home to New Brunswick, Canada during the pandemic.
-- I joined [Shopify](https://shopify.engineering/) and led the [Shop Minis SDK](https://shop.app/minis).
-- I joined [Float](https://floatcard.com) in 2023 and lead their Mobile team.
+- [I moved home to New Brunswick, Canada](https://ashfurrow.com/blog/moving-home-to-new-brunswick/) during the pandemic.
+- [I joined Shopify](https://ashfurrow.com/blog/joining-shopify/) and led the [Shop Minis SDK](https://shop.app/minis).
+- [I joined Float](https://ashfurrow.com/blog/joining-float/) in 2023 and led their Mobile team.
+- [I joined Wealthsimple](https://ashfurrow.com/blog/joining-wealthsimple/) in 2025.
 
 The best is yet to come!
